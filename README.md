@@ -1,6 +1,6 @@
 # chat
 
-Voice chat built on Vue.js:vue: using Firebase:fire:
+Voice chat built on Vue.js using Firebase:fire:
 
 ## Project setup
 ```
