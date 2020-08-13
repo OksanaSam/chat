@@ -1,5 +1,7 @@
 # chat
 
+Voice chat built on Vue.js using Firebase
+
 ## Project setup
 ```
 npm install
